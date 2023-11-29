@@ -43,11 +43,21 @@ Now, paste the above content below
 
 **Successful that object is publicly accessible.**
 
+## Versioning
 
+Select the created Bucket -> Properities -> Edit Bucket Versioning
 
+![image](https://github.com/Pramanik4/AWS_Cloud/assets/75212387/b113541a-1572-4b69-b5dc-8a49a551a9a8)
 
+After save changes you will get the option of show versions
 
+![image](https://github.com/Pramanik4/AWS_Cloud/assets/75212387/114cc43d-4d1d-45be-a357-35e015bc058e)
 
+![image](https://github.com/Pramanik4/AWS_Cloud/assets/75212387/d545988b-f42a-4687-87ae-c4f2c9a0fff5)
+
+We have uploaded another image with the same name so as we have enabled the versioning property so we can now see both the results.
+
+![image](https://github.com/Pramanik4/AWS_Cloud/assets/75212387/2210ee38-7a94-4f0b-8af2-4245e0aff7cf)
 
 
 
