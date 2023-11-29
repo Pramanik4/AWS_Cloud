@@ -69,4 +69,11 @@ We have uploaded another image with the same name so as we have enabled the vers
 
 Next button -> Give Name for this Alert and it's Description -> Next -> Create Alarm -> From Email click on confirm subscription -> refresh Page -> Done
 
+<h3 align="center"> Static Website hosting in S3 </h3>
+
+Create a bucket -> Upload necessary files -> Refresh -> Properties -> Scroll Down & click on Edit Static Website Hosting -> Enabled
+
+![image](https://github.com/Pramanik4/AWS_Cloud/assets/75212387/51e83c9f-5b1d-42f0-8b19-5454464b95e2)
+
+You will get Error So to resolve this...You have to follow the same process of Generate Policy.
 
