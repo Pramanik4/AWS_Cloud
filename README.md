@@ -59,10 +59,14 @@ We have uploaded another image with the same name so as we have enabled the vers
 
 ![image](https://github.com/Pramanik4/AWS_Cloud/assets/75212387/2210ee38-7a94-4f0b-8af2-4245e0aff7cf)
 
+ **How to create a billing alarm in AWS**
+ 
+- search bar -> Cloudwatch -> Alarms -> billing -> create Alarm
 
+![image](https://github.com/Pramanik4/AWS_Cloud/assets/75212387/0165a618-4763-4372-8798-243013f405e3)
 
+![image](https://github.com/Pramanik4/AWS_Cloud/assets/75212387/80fb028d-4109-4d40-a330-c311ac63b252)
 
-
-
+Next button -> Give Name for this Alert and it's Description -> Next -> Create Alarm -> From Email click on confirm subscription -> refresh Page -> Done
 
 
